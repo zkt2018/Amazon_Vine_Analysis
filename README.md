@@ -8,6 +8,7 @@ For this project, I selected Software reviews dataset from the Amazon Review Dat
 Part of the statistics resulted from the dataset is displayed below, however, as the dataset is significantly imbalanced, it requires more analytics before a definite conclusion is made.
 
 * All reviews:
+
 ![total_reviews.png](https://github.com/zkt2018/Amazon_Vine_Analysis/blob/main/resources/total_reviews.png)
 
 * All 5-Star Reviews
