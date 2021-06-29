@@ -1,7 +1,7 @@
 # **Amazon_Vine_Analysis**
 
 ## **Overview of the analysis**
-In this project, we used some big data technologies, Hadoop, cloud services, NLP (Natural Language Processing) to analyse our datasets. These tools are mostly designed to facilitate big data analysis. During this project, we assessed the user reviews of Amazon. Sellby, a client of BigMarket, has requested for a comparison of the reviews of their products, with the competitors. Sellby is also investigating if it will be beneficial to enroll in a program where the end users are given free products to review.
+In this project, we used some big data technologies, Hadoop, cloud services to analyse our datasets. These tools are mostly designed to facilitate big data analysis. During this project, we assessed the user reviews of Amazon. Sellby, a client of BigMarket, has requested for a comparison of the reviews of their products, with the competitors. Sellby is also investigating if it will be beneficial to enroll in a program where the end users are given free products to review.
 
 ## **Results**
 For this project, I selected Software reviews dataset from the Amazon Review Datasets. After creating a dataframe using PySpark libraries, applying the filter function on the data frame, I selected particular rows for analysis. Finally, the votes under the paid Vine program vs. the votes exclusive to the Vine program were filtered.
